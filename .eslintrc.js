@@ -8,7 +8,7 @@ module.exports = {
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
-    //"plugin:prettier/recommended",
+    "plugin:storybook/recommended"
   ],
   parserOptions: {
     ecmaFeatures: {
@@ -27,5 +27,6 @@ module.exports = {
     "react/react-in-jsx-scope": "off",
     "no-unused-vars": "off",
     "no-trailing-spaces": "off",
+    "react/no-unescaped-entities": "off"
   },
 };
