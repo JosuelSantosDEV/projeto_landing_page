@@ -1,4 +1,4 @@
-import { SectionContainer } from "../SectionContainer";
+
 import { SectionBackground } from ".";
 
 export default {
@@ -6,14 +6,14 @@ export default {
     component: SectionBackground,
     args: {
         children: (
-            <SectionContainer>
-                <div>
-                <h1>SectionContainer</h1>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non ab doloribus laboriosam aspernatur eum,
-                     aliquam in et iusto dolorem voluptatemprovident assumenda eaque! Odio eius fuga deserunt?
-                     Vero, similique illum.</p>
-                </div>
-            </SectionContainer>
+            
+            <div>
+            <h1>SectionContainer</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non ab doloribus laboriosam aspernatur eum,
+                aliquam in et iusto dolorem voluptatemprovident assumenda eaque! Odio eius fuga deserunt?
+                Vero, similique illum.</p>
+            </div>
+          
         ),
         background: false
     },
