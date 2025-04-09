@@ -1,6 +1,6 @@
 
 import { screen } from "@testing-library/react";
-import Heading from ".";
+import {Heading} from ".";
 import { renderTheme } from "../../theme/render-theme";
 import { theme } from "../../theme/theme";
 import { ThemeProvider } from "styled-components";

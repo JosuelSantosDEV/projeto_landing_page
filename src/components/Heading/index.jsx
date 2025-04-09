@@ -1,7 +1,7 @@
 import P from "prop-types";
 import * as Styled from "./styles";
 
-function Heading({children, colorDark = true, as= "h1", size = "medium", uppercase = false}) {
+export function Heading({children, colorDark = true, as= "h1", size = "medium", uppercase = false}) {
   return (
     <>
       <div >
@@ -13,7 +13,6 @@ function Heading({children, colorDark = true, as= "h1", size = "medium", upperca
   )
 }
 
-export default Heading;
 
 Heading.propTypes = {
   children: P.node.isRequired,
