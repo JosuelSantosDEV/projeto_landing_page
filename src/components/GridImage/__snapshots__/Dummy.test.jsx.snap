@@ -1,0 +1,307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridImage /> Should render with background 1`] = `
+.c3 {
+  color: #0a1128;
+  font-size: 5.6rem;
+  text-transform: uppercase;
+}
+
+.c5 {
+  font-size: 2.4rem;
+}
+
+.c2 > .c4 {
+  margin-bottom: 3.2rem;
+}
+
+.c6 {
+  counter-reset: grid-counter;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(280px,1fr));
+  gap: 3.2rem;
+}
+
+.c7 {
+  overflow: hidden;
+}
+
+.c8 {
+  width: 100%;
+  -webkit-transition: all 300ms;
+  transition: all 300ms;
+}
+
+.c8:hover {
+  -webkit-transform: scale(1.25) rotate(10deg);
+  -ms-transform: scale(1.25) rotate(10deg);
+  transform: scale(1.25) rotate(10deg);
+}
+
+.c0 {
+  background: #fff;
+  color: #0a1128;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 3.2rem;
+}
+
+@media (max-width:768px) {
+  .c3 {
+    font-size: 4rem;
+  }
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c2"
+      >
+        <div>
+          <h2
+            class="c3"
+          >
+            My grid
+          </h2>
+        </div>
+        <div
+          class="c4 c5"
+        >
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Accusantium commodi, vero quis
+     atque architecto minus debitis nobis
+     harum amet, illo, saepe enim velit eum a eveniet id aut totam quas.
+        </div>
+        <div
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 1"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 2"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 3"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 4"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 5"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 6"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<GridImage /> Should render without background 1`] = `
+.c3 {
+  color: #0a1128;
+  font-size: 5.6rem;
+  text-transform: uppercase;
+}
+
+.c5 {
+  font-size: 2.4rem;
+}
+
+.c2 > .c4 {
+  margin-bottom: 3.2rem;
+}
+
+.c6 {
+  counter-reset: grid-counter;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(280px,1fr));
+  gap: 3.2rem;
+}
+
+.c7 {
+  overflow: hidden;
+}
+
+.c8 {
+  width: 100%;
+  -webkit-transition: all 300ms;
+  transition: all 300ms;
+}
+
+.c8:hover {
+  -webkit-transform: scale(1.25) rotate(10deg);
+  -ms-transform: scale(1.25) rotate(10deg);
+  transform: scale(1.25) rotate(10deg);
+}
+
+.c0 {
+  background: #fff;
+  color: #0a1128;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 3.2rem;
+}
+
+@media (max-width:768px) {
+  .c3 {
+    font-size: 4rem;
+  }
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c2"
+      >
+        <div>
+          <h2
+            class="c3"
+          >
+            My grid
+          </h2>
+        </div>
+        <div
+          class="c4 c5"
+        >
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Accusantium commodi, vero quis
+     atque architecto minus debitis nobis
+     harum amet, illo, saepe enim velit eum a eveniet id aut totam quas.
+        </div>
+        <div
+          class="c6"
+        >
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 1"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 2"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 3"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 4"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 5"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+          <div
+            class="c7"
+          >
+            <img
+              alt="Title 6"
+              class="c8"
+              src="https://plus.unsplash.com/premium_photo-1673909405731-94b05ba69308?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c291cmNlfGVufDB8fDB8fHww"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

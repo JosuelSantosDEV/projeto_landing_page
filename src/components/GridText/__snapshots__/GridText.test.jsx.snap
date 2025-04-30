@@ -88,11 +88,11 @@ exports[`<GridText /> Should render with background 1`] = `
             My grid
           </h2>
         </div>
-        <p
+        <div
           class="c5 c6"
         >
           You’ve probably heard of Lorem Ipsum before – it’s the most-use
-        </p>
+        </div>
         <div
           class="c7"
         >
@@ -106,14 +106,14 @@ exports[`<GridText /> Should render with background 1`] = `
                 Test 1
               </h3>
             </div>
-            <p
+            <div
               class="c5 c6"
             >
               You’ve probably heard of Lorem Ipsum before – it’s the most-used dummy 
             text excerpt out there. People use it because it has a fairly normal distribution of 
             letters and words (making it look like normal English), but it’s also Latin, which 
             means your average reader won’t get distracted by trying to read it. It’s perfect for .
-            </p>
+            </div>
           </div>
           <div
             class="c8"
@@ -125,14 +125,14 @@ exports[`<GridText /> Should render with background 1`] = `
                 Test 2
               </h3>
             </div>
-            <p
+            <div
               class="c5 c6"
             >
               You’ve probably heard of Lorem Ipsum before – it’s the most-used dummy 
             text excerpt out there. People use it because it has a fairly normal distribution of 
             letters and words (making it look like normal English), but it’s also Latin, which 
             means your average reader won’t get distracted by trying to read it. It’s perfect for .
-            </p>
+            </div>
           </div>
           <div
             class="c8"
@@ -144,14 +144,14 @@ exports[`<GridText /> Should render with background 1`] = `
                 Test 3
               </h3>
             </div>
-            <p
+            <div
               class="c5 c6"
             >
               You’ve probably heard of Lorem Ipsum before – it’s the most-used dummy 
             text excerpt out there. People use it because it has a fairly normal distribution of 
             letters and words (making it look like normal English), but it’s also Latin, which 
             means your average reader won’t get distracted by trying to read it. It’s perfect for .
-            </p>
+            </div>
           </div>
         </div>
       </div>
@@ -248,11 +248,11 @@ exports[`<GridText /> Should render without background 1`] = `
             My grid
           </h2>
         </div>
-        <p
+        <div
           class="c5 c6"
         >
           You’ve probably heard of Lorem Ipsum before – it’s the most-use
-        </p>
+        </div>
         <div
           class="c7"
         >
@@ -266,14 +266,14 @@ exports[`<GridText /> Should render without background 1`] = `
                 Test 1
               </h3>
             </div>
-            <p
+            <div
               class="c5 c6"
             >
               You’ve probably heard of Lorem Ipsum before – it’s the most-used dummy 
             text excerpt out there. People use it because it has a fairly normal distribution of 
             letters and words (making it look like normal English), but it’s also Latin, which 
             means your average reader won’t get distracted by trying to read it. It’s perfect for .
-            </p>
+            </div>
           </div>
           <div
             class="c8"
@@ -285,14 +285,14 @@ exports[`<GridText /> Should render without background 1`] = `
                 Test 2
               </h3>
             </div>
-            <p
+            <div
               class="c5 c6"
             >
               You’ve probably heard of Lorem Ipsum before – it’s the most-used dummy 
             text excerpt out there. People use it because it has a fairly normal distribution of 
             letters and words (making it look like normal English), but it’s also Latin, which 
             means your average reader won’t get distracted by trying to read it. It’s perfect for .
-            </p>
+            </div>
           </div>
           <div
             class="c8"
@@ -304,14 +304,14 @@ exports[`<GridText /> Should render without background 1`] = `
                 Test 3
               </h3>
             </div>
-            <p
+            <div
               class="c5 c6"
             >
               You’ve probably heard of Lorem Ipsum before – it’s the most-used dummy 
             text excerpt out there. People use it because it has a fairly normal distribution of 
             letters and words (making it look like normal English), but it’s also Latin, which 
             means your average reader won’t get distracted by trying to read it. It’s perfect for .
-            </p>
+            </div>
           </div>
         </div>
       </div>
